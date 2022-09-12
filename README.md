@@ -33,5 +33,3 @@
 ![adobelightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![adobeindesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
 ![blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-![Snake animation](https://github.com/LeoRodrigues290/LeoRodrigues290/blob/output/github-contribution-grid-snake.svg)
